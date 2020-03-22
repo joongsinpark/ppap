@@ -1,0 +1,5 @@
+https://api.linkprice.com/ci/service/custom_link_xml
+https://api.linkprice.com/ci/service/custom_link_xml
+https://search.shopping.naver.com/search/all.nhn?delivery=1&pagingIndex=1&pagingSize=40&viewType=list&sort=price_asc&frm=NVSHPRC&query=%EC%83%9D%ED%95%84%ED%92%88%EC%9C%84%ED%81%AC%20%EA%B0%95%EB%B8%94%EB%A6%AC%EB%9D%BC%EC%9D%B4%ED%94%84
+https://search.shopping.naver.com/search/all.nhn?delivery=1&pagingIndex=1&pagingSize=40&viewType=list&sort=price_asc&frm=NVSHPRC&query=%EC%83%9D%ED%95%84%ED%92%88%EC%9C%84%ED%81%AC%20%EA%B0%95%EB%B8%94%EB%A6%AC%EB%9D%BC%EC%9D%B4%ED%94%84
+https://everyone.rebate.energy.or.kr/
